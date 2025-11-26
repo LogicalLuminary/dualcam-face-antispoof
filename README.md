@@ -110,8 +110,3 @@ __pycache__/
 .idea/
 ```
 
-## License
-
-Choose a license (MIT is a common permissive choice). Add a `LICENSE` file to your repo.
-
-Want a shorter README or a README with badges (CI / license) and a `python.yml` GitHub Actions file? Tell me which and I will create it.
